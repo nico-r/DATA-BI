@@ -12,6 +12,18 @@ Tendencias de ingresos a lo largo del tiempo.
 
 Clientes y productos más rentables.
 
+
+🎯 Conclusiones y Mejoras
+
+Delhi y Mumbai son los mercados con mayor facturación.
+
+Un gran porcentaje de ventas proviene de un cliente clave.
+
+Se recomienda analizar más a fondo los productos con categoría "Blank".
+
+Posible optimización de estrategia de ventas en mercados con baja facturación.
+
+
 🖼 Capturas de Pantalla
 ![Image](https://github.com/user-attachments/assets/7a30882e-3b33-4ec3-88db-7fcd1a4329bf)
 
@@ -22,12 +34,12 @@ Clientes y productos más rentables.
 
 🔗 Demo Interactiva
 
-Puedes explorar el dashboard en vivo a través del siguiente enlace:
+Puedes explorar el dashboard en vivo a través del archivo "dashboard_ventas_r":
 👉 Ver Dashboard en Power BI
 
 📂 Archivos Disponibles
 
-dashboard-ventas.pbix - Archivo fuente de Power BI.
+dashboard_ventas_r.pbix - Archivo fuente de Power BI.
 
 capturas/ - Carpeta con capturas de pantalla del dashboard.
 
@@ -35,7 +47,9 @@ capturas/ - Carpeta con capturas de pantalla del dashboard.
 
 Power BI Desktop para la creación del dashboard.
 
-DAX & Power Query para el modelado de datos.
+DAX & Power Query para el modelado de datos y data cleaning 
+
+SQL para limpieza y transformacion de datos
 
 GitHub para el almacenamiento y documentación del proyecto.
 
