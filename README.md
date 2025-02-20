@@ -63,4 +63,4 @@ Explora y personaliza los datos según tus necesidades.
 
 📧 Contacto
 
-Si tienes preguntas o sugerencias, puedes contactarme en: [Tu Email o LinkedIn].
+Si tienes preguntas o sugerencias, puedes contactarme en: nicolasruedaa09@gmail.com o https://www.linkedin.com/in/nicolas-rueda-/
