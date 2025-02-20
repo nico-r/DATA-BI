@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/5720da72-97a3-4b11-ac1c-b6ce3602aa52)
 📊 Power BI Dashboard: Análisis de Ventas
 
 📌 Descripción
@@ -14,14 +13,21 @@ Tendencias de ingresos a lo largo del tiempo.
 Clientes y productos más rentables.
 
 🖼 Capturas de Pantalla
+![Image](https://github.com/user-attachments/assets/7a30882e-3b33-4ec3-88db-7fcd1a4329bf)
+
+![Image](https://github.com/user-attachments/assets/a69f5f49-7bd7-49cd-a77c-862e0605b190)
+
+![Image](https://github.com/user-attachments/assets/ec627503-181d-4d98-ac34-4aa7a1c36ae5)
 
 
 🔗 Demo Interactiva
 
+Puedes explorar el dashboard en vivo a través del siguiente enlace:
+👉 Ver Dashboard en Power BI
 
 📂 Archivos Disponibles
 
-dashboard_ventas_r.pbix - Archivo fuente de Power BI.
+dashboard-ventas.pbix - Archivo fuente de Power BI.
 
 capturas/ - Carpeta con capturas de pantalla del dashboard.
 
@@ -31,13 +37,16 @@ Power BI Desktop para la creación del dashboard.
 
 DAX & Power Query para el modelado de datos.
 
-
 GitHub para el almacenamiento y documentación del proyecto.
 
 📥 Cómo Usarlo
 
-Descarga el archivo dashboard_ventas_r.pbix.
+Descarga el archivo dashboard-ventas.pbix.
 
 Ábrelo con Power BI Desktop.
 
 Explora y personaliza los datos según tus necesidades.
+
+📧 Contacto
+
+Si tienes preguntas o sugerencias, puedes contactarme en: [Tu Email o LinkedIn].
