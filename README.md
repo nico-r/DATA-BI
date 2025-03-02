@@ -1,3 +1,58 @@
+# 📊 Power BI Dashboard: Sales Analysis
+
+## 📌 Description
+
+This interactive Power BI dashboard provides a detailed visualization of sales performance, including:
+
+- Total revenue and sales volume.
+- Comparison of revenue and profit margin by market.
+- Revenue trends over time.
+- Most profitable customers and products.
+
+## 🎯 Key Findings and Improvements
+
+- Delhi and Mumbai are the markets with the highest revenue.
+- A significant percentage of sales comes from a key client.
+- Further analysis is recommended for products categorized as "Blank".
+- Potential optimization of sales strategy in markets with low revenue.
+
+## 🖼 Screenshots
+
+![Image](https://github.com/user-attachments/assets/7a30882e-3b33-4ec3-88db-7fcd1a4329bf)
+
+![Image](https://github.com/user-attachments/assets/a69f5f49-7bd7-49cd-a77c-862e0605b190)
+
+![Image](https://github.com/user-attachments/assets/ec627503-181d-4d98-ac34-4aa7a1c36ae5)
+
+## 🔗 Interactive Demo
+
+You can explore the live dashboard through the "dashboard_ventas_r" file:  
+👉 [View Dashboard on Power BI](#)
+
+## 📂 Available Files
+
+- `dashboard_ventas_r.pbix` - Source Power BI file.
+- `capturas/` - Folder with screenshots of the dashboard.
+
+## 🚀 Technologies Used
+
+- **Power BI Desktop** for dashboard creation.
+- **DAX & Power Query** for data modeling and data cleaning.
+- **SQL** for data cleaning and transformation.
+- **GitHub** for project storage and documentation.
+
+## 📥 How to Use
+
+1. Download the `dashboard_ventas_r.pbix` file.
+2. Open it with Power BI Desktop.
+3. Explore and customize the data according to your needs.
+
+## 📧 Contact
+
+If you have any questions or suggestions, feel free to contact me at:  
+[nicolasruedaa09@gmail.com](mailto:nicolasruedaa09@gmail.com) or [LinkedIn](https://www.linkedin.com/in/nicolas-rueda-/)
+
+--------------------------------------------------------------------------------------
 📊 Power BI Dashboard: Análisis de Ventas
 
 📌 Descripción
